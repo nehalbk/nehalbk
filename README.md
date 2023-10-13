@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nehal Kankanawadi
 - 👀 I’m interested in anything realted to data.
 - 🌱 I’m currently working on data analytics and machine learning.
-- 💞️ I’m looking to collaborate on basic python programming.
+- 💞️ I’m looking to collaborate on data analytics and machine learning.
 - 📫 How to reach me - nehalbk333@gmail.com
